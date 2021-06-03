@@ -1,7 +1,4 @@
-# Demo
+# IoT Based Tele-Medicine System
 
-Some Descriptions..
+my final year major project
 
-## SubHeader
-
-some new text
